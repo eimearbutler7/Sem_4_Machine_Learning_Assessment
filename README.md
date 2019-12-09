@@ -12,6 +12,7 @@ By running each cell in succession, it will import and assess the publicly avail
 The notebook sections are as follows: 
 
 <img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204b.png" width="400">
+
 - Introduction
 - Section 1: The CHAS & MEDV Relationship
 - Section 2: Broader Analysis of the Dataset
