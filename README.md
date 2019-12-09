@@ -28,8 +28,8 @@ The dataset connected with this jupyter notebook is available from numerous loca
 
 
 A summary of the assessment criteria has been included below for reference:
-<img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
 
+<img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
 **(20%) Describe:** Create a jupyter notebook that uses descriptive statistics and
 plots to describe the dataset.
 
