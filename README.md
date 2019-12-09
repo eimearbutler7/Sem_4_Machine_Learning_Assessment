@@ -22,13 +22,13 @@ The notebook sections are as follows:
 - Section 4d - Creating a Neural Network for both PTRATIO and LSTAT vs MEDV
 - Section 4e - Creating a Neural Network for PTRATIO, TAX, AGE and LSTAT vs MEDV
 - Conclusion
-<img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
+
 
 The dataset connected with this jupyter notebook is available from numerous locations including from sklearn.datasets import load_boston .
 
 
 A summary of the assessment criteria has been included below for reference:
-
+<img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
 **(20%) Describe:** Create a jupyter notebook that uses descriptive statistics and
 plots to describe the dataset.
 
