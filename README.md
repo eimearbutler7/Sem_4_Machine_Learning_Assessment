@@ -1,4 +1,5 @@
-# Sem_4_Machine_Learning_Assessment 
+# Semester 4 Machine Learning Assessment 
+<img align="right" src="https://www.kdnuggets.com/images/cartoon-recommendation-python-machine-learning.jpg" width="200">
 
 This repository contains Machine Learning and Statistics Assessment Q4 2019 (5 credits)
 
