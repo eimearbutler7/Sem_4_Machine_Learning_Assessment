@@ -17,10 +17,10 @@ The notebook sections are as follows:
 - Section 3: Further Investigation LSTAT vs MDEV and RM vs MDEV
 - Section 4: Developing the Neural Network with Keras
 - Section 4a - Preparing the data
-- Section 4b - Creating a Neural Network for LSTAT vs MEDV
+- Section 4b - Creating a Neural Network for LSTAT vs MEDV (output plot to the right)
 - Section 4c - Creating a Neural Network for PTRATIO vs MEDV
 - Section 4d - Creating a Neural Network for both PTRATIO and LSTAT vs MEDV
-- Section 4e - Creating a Neural Network for PTRATIO, TAX, AGE and LSTAT vs MEDV
+- Section 4e - Creating a Neural Network for PTRATIO, TAX, AGE and LSTAT vs MEDV (output plot below)
 - Conclusion
 
 
