@@ -8,9 +8,7 @@ To run this document you must have installed software to run python code (https:
 
 By running each cell in succession, it will import and assess the publically available Boston House Price DataSet (1978). Once the characteristics of the set are reviewed, it will then assess if the price of homes are influenced by being besie the Charles River and create a Karas generated neural network to estimate the MEDV (median price) from a number of known parameters.  
 
-The dataset connected with this jupyter notebook is available from numerous locations including 
-- from sklearn.datasets import load_boston 
-- C:\\ProgramData\\Anaconda3\\lib\\site-packages\\sklearn\\datasets\\data\\boston_house_prices.csv
+The dataset connected with this jupyter notebook is available from numerous locations including from sklearn.datasets import load_boston .
 
 
 A summary of the assessment criteria has been included below for reference:
