@@ -16,13 +16,13 @@ The notebook sections are as follows:
 - Section 2: Broader Analysis of the Dataset
 - Section 3: Further Investigation LSTAT vs MDEV and RM vs MDEV
 - Section 4: Developing the Neural Network with Keras
-= Section 4a - Preparing the data
+- Section 4a - Preparing the data
 - Section 4b - Creating a Neural Network for LSTAT vs MEDV
 - Section 4c - Creating a Neural Network for PTRATIO vs MEDV
 - Section 4d - Creating a Neural Network for both PTRATIO and LSTAT vs MEDV
 - Section 4e - Creating a Neural Network for PTRATIO, TAX, AGE and LSTAT vs MEDV
 - Conclusion
-<img align="left" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
+<img align="right" src="https://raw.githubusercontent.com/eimearbutler7/Sem_4_Machine_Learning_Assessment/master/z_section%204e.png" width="400">
 
 The dataset connected with this jupyter notebook is available from numerous locations including from sklearn.datasets import load_boston .
 
@@ -30,7 +30,7 @@ The dataset connected with this jupyter notebook is available from numerous loca
 A summary of the assessment criteria has been included below for reference:
 
 **(20%) Describe:** Create a jupyter notebook that uses descriptive statistics and
-plots to describe the Boston House Prices dataset.
+plots to describe the dataset.
 
 
 **(20%) Infer:** use inferential statistics to analyse whether there is a significant difference 
