@@ -6,7 +6,7 @@ The primary document is the Jupyter Notebook "Boston House Prices.ipynb".
 
 To run this document you must have installed software to run python code (https://www.python.org/), for example the Anaconda package (https://www.anaconda.com/) as well as keras.io set up to run with Tensorflow backend.
 
-By running each cell in succession, it will import and assess the publically available Boston House Price DataSet (1978). Once the characteristics of the set are reviewed, it will then assess if the price of homes are influenced by being besie the Charles River and create a Karas generated neural network to estimate the MEDV (median price) from a number of known parameters.  
+By running each cell in succession, it will import and assess the publically available Boston House Price DataSet (1978). Once the characteristics of the set are reviewed, it will then assess if the price of homes are influenced by being beside the Charles River and create a Karas generated neural network to estimate the MEDV (median price) from a number of known parameters.  
 
 The dataset connected with this jupyter notebook is available from numerous locations including from sklearn.datasets import load_boston .
 
